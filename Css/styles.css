@@ -1,0 +1,23 @@
+#cabecera{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    padding: 1px;
+    background-color: #000;
+    border: 2px solid #000;
+}
+#contenido{
+    font-family: "Arial";
+    text-align: left;
+    font-size: 20px;
+}
+#noticia{
+    text-align;left;
+    font-size: 10px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid aqua;
+    background-color: aqua;
+}
